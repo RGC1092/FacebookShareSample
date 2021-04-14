@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FacebookShareSample</string>
+    <string name="facebook_app_id" translatable="false">280194740450374</string>
+</resources>
